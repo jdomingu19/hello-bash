@@ -20,7 +20,11 @@
 
 ## 🎯 Repository Goals
 
-> Qui ut ea aute labore nisi in mollit laboris. Eiusmod ipsum est velit nisi velit nulla sit duis. Duis nulla cupidatat incididunt sit velit. Ea consequat ut laboris labore ea veniam. Nostrud ad duis dolor aliqua mollit consequat commodo. Duis officia id sit magna ea ad tempor id laboris irure cupidatat ullamco id cillum.
+- Qui ut ea aute labore nisi in mollit laboris. Eiusmod ipsum est velit nisi velit nulla sit duis. 
+
+- Duis nulla cupidatat incididunt sit velit. Ea consequat ut laboris labore ea veniam. 
+
+- Nostrud ad duis dolor aliqua mollit consequat commodo. Eiusmod id voluptate pariatur adipisicing aute qui consectetur
 
 ## ⚖️ License
 
